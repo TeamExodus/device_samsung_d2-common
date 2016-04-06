@@ -2,5 +2,9 @@
   {
     "repository": "device_samsung_msm8960-common",
     "target_path": "device/samsung/msm8960-common"
+  },
+  {
+    "repository": "vendor_samsung_d2-common",
+    "target_path": "vendor/samsung/d2-common"
   }
 ]
